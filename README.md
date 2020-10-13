@@ -4,7 +4,7 @@ We had to use public datasets to create meaningful and quite complex visualizati
 The Erasmus program (EuRopean Community Action Scheme for the Mobility of University Students) was launched in 1987 and in the first year it brought more than three thousand students abroad.
 
 ## Dataset
-We combined five yearly datasets from <a href="https://data.europa.eu/euodp/en/data/">EU Open Data Portal </a>. In addition, since both institutions' name and field of study were encoded with a code, we had to merge other two datasets to perform a mapping. Lastly, we also wanted to show some relative proportions and therefore we also added data about the total number of students per different year and different country. (UN open data).
+We combined five yearly datasets from <a href="https://data.europa.eu/euodp/en/data/">EU Open Data Portal </a>. In addition, since both institutions' name and field of study were encoded with a code, we had to merge other two datasets to perform a mapping. Lastly, we also wanted to show some relative proportions and therefore we also added data about the total number of students per different year and different country. (<a href="https://data.un.org/">UN open data</a>).
 All the datasets required some cleansing: missing or wrong values were common, as well as typos or different features name for similar dataset. The preprocessing has been mainly done with python or directly with Tableau.
 
 ## Project and Report
